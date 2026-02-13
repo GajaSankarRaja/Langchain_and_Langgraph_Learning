@@ -59,5 +59,19 @@ LangGraph is the advanced evolution.
 
 ---
 
-# 📂 Repository Structure
+
+---
+
+# ⚙️ Setup Instructions
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/GajaSankarRaja/Langchain-_and_Langgraph.git
+cd Langchain-_and_Langgraph
+
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+
 
